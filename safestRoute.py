@@ -4,7 +4,7 @@ import time
 import csv
 
 
-""" --- We have commented out the selenium code so as to avoid any errors as we haven't yet linked it with google maps---"""
+""" --- We have commented out the selenium code so as to avoid any errors as we haven't yet linked it with google maps properly---"""
 
 driver = webdriver.Chrome('C:\\Users\\chromedriver.exe')
 
